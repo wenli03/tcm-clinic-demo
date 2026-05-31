@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+:HL["/tcm-clinic-demo/_next/static/css/dc9ca2f72a7ee2bf.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/tcm-clinic-demo/_next/static/css/dc9ca2f72a7ee2bf.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_d22802 __variable_de8aaa h-full antialiased","children":["$","body",null,{"className":"min-h-full","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"y_2X1rzOw7ITmc4tWHLvo"}
